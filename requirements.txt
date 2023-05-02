@@ -1,0 +1,13 @@
+cufflinks
+pandas
+pycaret
+pyperclip
+plotly
+seaborn
+streamlit
+streamlit_extras
+streamlit_option_menu
+beautifulsoup4
+bs4
+urllib3
+joblib
